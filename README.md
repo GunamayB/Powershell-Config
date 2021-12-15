@@ -8,6 +8,6 @@ This config also requires your terminal emulator to be using one of the patched 
 </p>
 <p>
 The repo contains 2 files which have to both be placed in "C:\Users\<your-user-folder-here>\.config/powershell".
-Please check "https://github.com/dahlbyk/posh-git" for instructions on installing and setting up posh-git for the config.
+Please check "https://github.com/dahlbyk/posh-git" for instructions on installing and setting up posh-git for the config.<br>
 Upon restarting powershell may show an error due to the aliases set in the "user_profile.ps1" file. These can be removed with no effect.
   </p>
