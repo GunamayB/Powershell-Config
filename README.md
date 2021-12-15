@@ -1,4 +1,4 @@
-#My Powershell prompt config
+My Powershell prompt config
 This prompt uses oh-my-posh, posh-git and Paradox as the PoshPrompt.
 The prompt has been built with powershell 7.2.0 and is compatible with the preinstalled powershell 5.x on windows.
 
