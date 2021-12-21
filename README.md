@@ -4,7 +4,7 @@ This prompt uses oh-my-posh, posh-git and Paradox as the PoshPrompt.
 The prompt has been built with powershell 7.2.0 and is compatible with the preinstalled powershell 5.x on windows.
 </p>
 <p>
-This config also requires your terminal emulator to be using one of the patched fonts from nerdfonts(personal-preference FantasqueSansMono) to render the icons and glyphs. I have used the windows terminal with a slightly modified version of one half dark colorscheme. The change made to the colorscheme is setting the background to #001B26. The change can be made through the JSON file of the windows terminal config which can be found at : "C:\Users\Gunam\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState".
+This config requires your terminal emulator to be using one of the patched fonts from nerdfonts(personal-preference: FantasqueSansMono) to render the icons and glyphs. I have used the windows terminal with a slightly modified version of one half dark colorscheme. The change made to the colorscheme is setting the background to #001B26. The change can be made through the user preferences JSON file which can be found at : "C:\Users\<your_user_folder>\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState".
 </p>
 <p>
 The repo contains 2 files which have to both be placed in "C:\Users\<your-user-folder-here>\.config/powershell".
