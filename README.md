@@ -1,6 +1,6 @@
 # My Powershell prompt config
 <p>
-This prompt uses oh-my-posh, posh-git and Paradox as the PoshPrompt.
+This prompt uses oh-my-posh, posh-git and Paradox as the PoshPrompt(please check the user profile file for the modules installed).
 The prompt has been built with powershell 7.2.0 and is compatible with the preinstalled powershell 5.x on windows.
 </p>
 <p>
@@ -10,4 +10,4 @@ This config also requires your terminal emulator to be using one of the patched 
 The repo contains 2 files which have to both be placed in "C:\Users\<your-user-folder-here>\.config/powershell".
 Please check "https://github.com/dahlbyk/posh-git" for instructions on installing and setting up posh-git for the config.<br>
 Upon restarting powershell may show an error due to the aliases set in the "user_profile.ps1" file. These can be removed with no effect.
-  </p>
+</p>
